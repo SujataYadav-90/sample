@@ -1,0 +1,262 @@
+.resume-btn {
+    font-family: candara;
+    width: 190px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    background-color: aqua;
+    / border-radius: 20px;
+    /box-shadow: 5px 5px 10px grey;
+    / margin-right: 300px;
+    margin-left: 15%;
+    /padding-top: 10%;
+    font-size: 25px;
+}
+
+.d1 {
+    font-family: candara;
+    color: black;
+    margin-left: 5%;
+    margin-top: 30px;
+    font-size: 18px;
+    height: 35px;
+    width: 180px;
+    justify-content: center;
+    align-items: center;
+    border-radius: .7rem;
+    display: flex;
+    -webkit-filter: grayscale(1);
+}
+
+    .d1:hover {
+        -webkit-filter: grayscale(0);
+        background-color: white;
+        box-shadow: 5px 5px 5px grey;
+    }
+
+    .d1:hover {
+        color: orangered;
+    }
+
+.n1 {
+    padding-top: 10px;
+    background-color: #e4e2e266;
+    height: 100%;
+    width: 20%;
+}
+
+.img {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.new {
+    display: flex;
+}
+
+.b1 {
+    font-family: candara;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 550px;
+    height: 180px;
+    border-radius: 1.5rem;
+    background-color: #79a8e3f2;
+}
+
+.r1, .r2 {
+    display: flex;
+}
+
+.c1, .c2, .c3, .c4 {
+    margin-left: 10%;
+    margin-top: 5%;
+    width: 300px;
+    height: 150px;
+    /background-color: black;
+    border-radius: 2rem;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.c3 {
+    background-color: #ebe37d42;
+}
+
+.c4 {
+    background-color: #dfd8bd40
+}
+
+.c1 {
+    background-color: #d5b0d261;
+}
+
+.po, .pi, .bo, .cha {
+    padding-top: %;
+    padding-left: 25%;
+    / background-color:#93e2c173;
+}
+
+.c2 {
+    background-color: #93e2c173;
+}
+
+.btn1 {
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 190px;
+    height: 44px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    background-color: #e16a25d9;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #d4ad67;
+    font-family: candara;
+}
+
+.em {
+    padding-right: 10px;
+    margin-top: 5%;
+    margin-left: 20%;
+    height: 80px;
+    width: 100px;
+    border-radius: 50%;
+    / background-color: blue;
+    background-image: url(prof.jpg);
+    background-size: 100%;
+}
+
+.r {
+    display: flex;
+}
+
+.nam {
+    font-family:Candara;
+    margin-top: 15%;
+    color: red;
+    display: flex;
+    margin-left: 10%;
+    margin-right: 1px
+}
+
+.box {
+    width: 200px;
+    height: 120px;
+    background-color: aqua;
+    border-radius: 2rem;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.av {
+    font-family: candara;
+    margin-top: 8%;
+    margin-left: 55%;
+}
+
+.img1 {
+    margin-left: 45%;
+    /margin-left: 15%;
+}
+
+.awa {
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+.po {
+    display: flex;
+}
+
+.cir1 {
+    padding-left: 10px;
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #beebf2;
+}
+
+.m1 {
+    font-family: candara;
+    font-size: 18px;
+    padding-left: 8px;
+    padding-top: 15px
+}
+
+.m2 {
+    padding-left: 80px;
+    font-size: 40px;
+}
+
+.cir2 {
+    margin-left: 25px;
+    margin-top: -15px;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: #beebf2;
+}
+
+.rr {
+    display: flex;
+}
+
+.you {
+    color: #fff;
+    padding-top: 10px;
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.star, .awar, .med {
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.des {
+    / font-family:candara;
+    display: flex;
+}
+
+.hel, .kno, .gif {
+    font-family: candara;
+    color: white;
+    padding-left: 20px;
+    font-size: 17px;
+}
+
+.d2 {
+    font-family: candara;
+    padding-left: 25%;
+    font-size: 25px;
+}
+
+.de1 {
+    font-family: candara;
+    padding-left: 25%;
+    font-size: 25px;
+}
+
+.d3 {
+    font-family: candara;
+    padding-left: 25%;
+    font-size: 25px;
+}
+
+.d4 {
+    font-family: candara;
+    padding-left: 20%;
+    font-size: 25px;
+}
+.gif {
+    color: transparent;
+    text-shadow: 0 0 1px #fff;
+}
